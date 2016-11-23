@@ -1,2 +1,2 @@
 # maverick
-learning
+learning new things
